@@ -8,7 +8,6 @@ import Pengguna from "./pages/pengguna/pengguna";
 import PenggunaCreate from "./pages/pengguna/penggunacreate";
 import PenggunaUpdate from "./pages/pengguna/penggunaupdate";
 
-
 const App = () => {
   return (
     <BrowserRouter>
@@ -25,5 +24,3 @@ const App = () => {
     </BrowserRouter>
   );
 };
-
-export default App;
